@@ -1,4 +1,6 @@
 # hello-world
+## sec head
+### 3 head
 this is my first repository on git-hub
 
 My name is Matthew
